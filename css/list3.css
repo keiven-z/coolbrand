@@ -1,0 +1,279 @@
+
+.check-one{
+    border: 1px solid #f2f2f2;
+    border-radius: 10px;
+    -moz-box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc; -webkit-box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc; box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc;
+}
+.z-dw3{
+    position: absolute;
+    bottom: 28px;
+    left: 22px;
+}
+.z-dw5{
+    position: absolute;
+    bottom: 28px;
+    left: 22px;
+}
+.z-dw5>img{
+    vertical-align: sub;
+}
+.z-dw3>img{
+    vertical-align: sub;
+}
+.z-dw4{
+    position: absolute;
+    color: #ccc;
+    bottom: 26px;
+    right: 30px;
+    font-size: 16px;
+}
+.z-dw{
+    height: 200px;
+    position: relative;
+}
+.logo-pic{
+    width: 70%;
+    height: 60%;
+    position: absolute;
+    top:40px;
+}
+.z-dw1{
+    position: absolute;
+    top:85px;
+    right: 20px
+}
+.z-menu>div>a{
+    padding-right: 50px;
+}
+.logo-pic{
+    width: 70%;
+    height: 60%;
+    position: absolute;
+    top:40px;
+}
+.first-adv{
+    margin-top: -60px;
+    width: 103.5%;
+    height: 100%;
+    margin-left: -33px;
+    margin-bottom: -90px;
+}
+.z-dw1{
+    position: absolute;
+    top:85px;
+    right: 20px
+}
+.time-more{
+    margin-left: 20px;
+    line-height: 296px;
+    color: #8d8d8d;
+    position: relative;
+}
+.show-menu{
+    width: 40px;
+    height: 30px;
+}
+
+.z-menu1{
+    margin-right: 20px ;
+    font-size: 18px;
+    color: #8D8D8D;
+}
+.showIt{
+    margin-bottom: 30px;
+    display: block;
+}
+.f-size{
+    color: #ccc;
+    font-size: 20px;
+}
+
+.z-menu{
+    margin-bottom: 30px;
+    display: none;
+}
+.z-menu>div>a:first-child{
+    font-size: 26px;
+    line-height: 56px;
+}
+.z-menu>div>a{
+    padding-right: 50px;
+}
+.z-dw{
+    height: 200px;
+    position: relative;
+}
+.demo2>i{
+    margin-left: 20px;
+    line-height: 80px;
+    font-size: 26px;
+    color: #fff;
+}
+.z-dw6{
+    position: relative;
+    width: 100%;
+    height: 80px;
+    background-color: #ff1b40;
+    margin-top: 30px;
+}
+.z-dw7{
+    position: absolute;
+    left: 30px;
+}
+.z-dw8{
+    position: absolute;
+    right: 30px;
+    line-height: 80px;
+    font-size: 26px;
+    color: #fff;
+}
+.f-size17{
+    font-size: 17px;
+}
+.smallDiv{
+    margin-top: 40px;
+    border-radius: 8px;
+    text-align: center;
+    line-height: 80px;
+}
+.p11{
+    font-size: 26px;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+.p22{
+    font-size: 17px;
+    margin-top: 6px;
+    margin-bottom: 54px;
+}
+.p33{
+    font-size: 17px;
+    line-height: 30px;
+}
+.demo1{
+    text-align: center;
+    width: 94%;
+    height: 356px;
+    margin: 14px;
+    border: 1px solid #f2f2f2;
+    border-radius: 10px;
+    -moz-box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc; -webkit-box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc; box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc;
+}
+.bigDiv>img{
+    margin-top: 26px;
+    width: 80%;
+    margin-bottom: 5px;
+}
+.img4{
+    text-align: center;
+    margin: 16px;
+    border: 1px solid #f2f2f2;
+    -moz-box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc; -webkit-box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc; box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc;
+    position: relative;
+    min-height: 440px;
+}
+.img4 span{
+    color: #8d8d8d;
+}
+.check-six{
+    min-height: 300px;
+}
+.z-p1{
+    text-align: center;
+    font-size: 22px;
+    line-height: 42px;
+    margin: 58px 0;
+}
+.title1{
+    font-size: 17px;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 20px;
+    line-height: 48px;
+}
+.title2{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 20px;
+    line-height: 20px;
+    color: #6e6e6e;
+    margin-bottom: 20px;
+}
+.z-check1{
+    margin-bottom: 60px;
+}
+.check-2{
+    position: relative;
+    margin-bottom: 60px;
+}
+.h-300{
+    width: 100%;
+    height: 300px;
+}
+.see-more{
+    position: absolute;
+    top:28px;
+    right: 46px;
+    font-size: 20px;
+    color: #8D8D8D;
+    z-index: 999;
+
+}
+.time-more>img{
+    position: absolute;
+    right: 0;
+    top:134px;
+}
+.see-more>img{
+    padding-right: 10px;
+}
+.z-dw7{
+    position: absolute;
+    left: 30px;
+    top:22px;
+}
+.demo2>a{
+    margin-left: 20px;
+}
+.img4{
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 16px;
+    border: 1px solid #f2f2f2;
+    -moz-box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc; -webkit-box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc; box-shadow:2px 2px 5px #ccc, 0px 0px 20px #ccc;
+    position: relative;
+    min-height: 440px;
+}
+.border-1{
+    width: 100%;
+    margin-left: -32px;
+    margin-bottom: 40px;
+}
+.lc-1{
+    text-align:  center;
+}
+.c-pic2{
+    margin: 0 auto 100px -32px;
+}
+.list-1{
+    overflow: hidden;
+    width: 100%;
+    height: 300px;
+    box-shadow:0px 10px 5px #ccc;
+}
+.left-pic{
+    float: left;
+    width: 450px;
+    height: 300px;
+    text-align: center;
+}
+.left-pic>img{
+    padding: 30px 0;
+    width: 90%;
+}
+.p-right{
+    float: left;
+    width: 650px;
+    height: 300px;
+}
